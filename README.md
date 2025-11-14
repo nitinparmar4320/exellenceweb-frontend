@@ -17,3 +17,13 @@ Notes:-
  
 4. For Preview
  - npm run preview 
+
+5. API Endpoint
+ - http://localhost:4000/api/
+
+ Pages
+ - Login
+ - Register
+ - Products
+ - Cart
+ - Checkout mockup
